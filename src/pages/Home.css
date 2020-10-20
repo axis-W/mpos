@@ -1,0 +1,14 @@
+.content{
+    font-size: 12px;
+    padding: 5px 0;
+    margin-bottom: 15px;
+}
+.text-head{
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.text-item{
+    font-size: 10px;
+    text-align: center;
+}
